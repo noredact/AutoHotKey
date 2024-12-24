@@ -180,5 +180,6 @@ global scriptIsCycling, triggerScript
 	cycVar := -1
 	cycleShift(cycVar)
 }
+#HotIf
 ; End
 ;--------------------------------------------------------------------------------------
