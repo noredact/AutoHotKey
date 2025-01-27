@@ -15,3 +15,4 @@ A collection of AHK programs I use
 	- Press/hold alt then ctrl then use mouse wheel to execute a function
 	- Functions appear in a tooltip
 	- Edit the user variables to add your functions
+<noscript><a href="https://liberapay.com/noredact/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
